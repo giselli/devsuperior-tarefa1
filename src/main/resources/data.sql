@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Lavínia Giovanna Almada','36889030486','1000.00','2003-03-04T00:00:00Z','6');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Josefa Heloisa Viana','59591757620','8608.60','1970-09-17T00:00:00Z','0');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Rita Jéssica Sarah Almada','89370277986','6990.78','1977-11-10T00:00:00Z','6');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Evelyn Rosa Nair Ramos','34647448509','6400.56','1984-03-19T00:00:00Z','9');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Geraldo Bryan Galvão','90110173589','7813.35','1941-09-14T00:00:00Z','9');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Isis Cristiane Rosângela Novaes','74397064040','6801.06','1974-03-08T00:00:00Z','0');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Ryan João Pedro Henrique Peixoto','91650796200','8834.18','1984-10-03T00:00:00Z','0');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Pedro Henrique Felipe Diogo Vieira','01664470484','49089.15','1947-07-05T00:00:00Z','4');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Martin Edson Ferreira','51006203583','4903.52','2003-09-27T00:00:00Z','3');
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Mirella Tereza Fernandes','93998733582','4406.74','2000-09-13T00:00:00Z','2');
